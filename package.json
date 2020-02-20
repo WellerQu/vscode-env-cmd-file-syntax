@@ -3,7 +3,7 @@
     "displayName": "env-cmd-file-syntax",
     "description": "syntax highlight in .env files",
     "publisher": "Nixon",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "git@github.com:WellerQu/vscode-env-cmd-file-syntax.git"
@@ -15,16 +15,29 @@
         "Programming Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "env",
-            "aliases": ["env", "env"],
-            "extensions": [".env",".development",".local",".test",".production"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "env",
-            "scopeName": ".env",
-            "path": "./syntaxes/env.tmLanguage.json"
-        }]
+        "languages": [
+            {
+                "id": "env",
+                "aliases": [
+                    "env",
+                    "env"
+                ],
+                "extensions": [
+                    ".env",
+                    ".development",
+                    ".local",
+                    ".test",
+                    ".production"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "env",
+                "scopeName": ".env",
+                "path": "./syntaxes/env.tmLanguage.json"
+            }
+        ]
     }
 }
