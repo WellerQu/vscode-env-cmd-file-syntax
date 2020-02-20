@@ -6,7 +6,7 @@ This plugin works with vscode. It helps us to highlight the key-value string in 
 
 To highlight the syntax like this:
 
-![highlight](images/Highlight.png)
+![highlight](https://github.com/WellerQu/vscdoe-env-cmd-file-syntax/blob/master/images/Highlight.png?raw=true)
 
 ## Requirements
 
