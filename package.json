@@ -2,6 +2,7 @@
     "name": "env-cmd-file-syntax",
     "displayName": "env-cmd-file-syntax",
     "description": "syntax highlight in .env files",
+    "publisher": "Nixon",
     "version": "0.0.1",
     "repository": {
         "type": "git",

@@ -22,7 +22,7 @@ None
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 - Add syntax highlight
 
