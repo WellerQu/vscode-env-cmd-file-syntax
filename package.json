@@ -1,0 +1,25 @@
+{
+    "name": "env-cmd-file-syntax",
+    "displayName": "env-cmd-file-syntax",
+    "description": "syntax highlight in .env files",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "env",
+            "aliases": ["env", "env"],
+            "extensions": [".env",".development",".local",".test",".production"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "env",
+            "scopeName": ".env",
+            "path": "./syntaxes/env.tmLanguage.json"
+        }]
+    }
+}
