@@ -26,4 +26,8 @@ None
 
 - Add syntax highlight
 
+### 0.1.0
+
+- Add a highlight to the variable reference, prefix REACT_APP_
+
 **Enjoy!**
