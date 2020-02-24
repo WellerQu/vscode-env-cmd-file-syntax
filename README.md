@@ -30,4 +30,8 @@ None
 
 - Add a highlight to the variable reference, prefix REACT_APP_
 
+### [1.1.1] - 2020-02-24
+
+- Refactor all code
+
 **Enjoy!**
