@@ -4,14 +4,18 @@ All notable changes to the "create-react-app-env" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0] - 2020-02-20
+## [0.0.1] - 2020-02-20
 
 - Add Syntax highlight
 
-## [1.1.0] - 2020-02-24
+## [0.1.0] - 2020-02-24
 
 - Add a highlight to the variable reference, prefix REACT_APP_
 
-## [1.1.1] - 2020-02-24
+## [0.1.1] - 2020-02-24
 
 - Refactor all code
+
+## [0.1.2] - 2020-02-24
+
+- Add some documentation
