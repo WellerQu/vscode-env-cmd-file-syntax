@@ -19,3 +19,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.1.2] - 2020-02-24
 
 - Add some documentation
+
+## [0.2.0] - 2020-07-10
+
+- Support Vue CLI
