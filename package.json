@@ -3,7 +3,7 @@
     "displayName": "env-cmd-file-syntax",
     "description": "syntax highlight in .env files",
     "publisher": "Nixon",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "repository": {
         "type": "git",
         "url": "git@github.com:WellerQu/vscode-env-cmd-file-syntax.git"
