@@ -22,11 +22,11 @@ None
 
 ## Release Notes
 
-### 0.0.1
+### [0.0.1]
 
 - Add syntax highlight
 
-### 0.1.0
+### [0.1.0]
 
 - Add a highlight to the variable reference, prefix REACT_APP_
 
@@ -37,5 +37,10 @@ None
 ### [0.1.2]
 
 - Add some documentation
+
+### [0.2.2]
+
+- Support VUE_APP
+- Fix multi-line comments
 
 **Enjoy!**
