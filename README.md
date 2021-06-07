@@ -43,4 +43,8 @@ None
 - Support VUE_APP
 - Fix multi-line comments
 
+### [0.3.0]
+
+- Support VITE, SNOWPACK_PUBLIC
+
 **Enjoy!**
